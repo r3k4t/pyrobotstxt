@@ -1,3 +1,5 @@
+[![python](https://img.shields.io/badge/Program-Python-brightgreen.svg)](https://www.python.org/downloads/release/python/)
+[![OS](https://img.shields.io/badge/Tested%20On-Linux-yellowgreen.svg)](https://en.wikipedia.org/wiki/Linux)
 # PyRobotsTxt
 
 ![Screenshot at 2021-03-22 11-36-52](https://user-images.githubusercontent.com/69615463/111946478-c5872d80-8b05-11eb-8623-3d88dac2b6a8.png)
