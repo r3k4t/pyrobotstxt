@@ -6,7 +6,7 @@
 
 <h6>Author : RKT</h6>
 
-A simple python program which find out any website robot.txt file.
+A simple python program which find out any website robots.txt file.
 
 ### Setup[PIP MODULE] ###
 
